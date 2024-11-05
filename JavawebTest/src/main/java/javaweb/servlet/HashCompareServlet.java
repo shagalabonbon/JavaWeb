@@ -1,6 +1,5 @@
 package javaweb.servlet;
 
-import java.awt.desktop.UserSessionEvent;
 import java.io.IOException;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

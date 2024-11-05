@@ -56,7 +56,7 @@
 					<td><%=productDto.getProductName()%></td>
 					<td><%=productDto.getPrice()%></td>
 					<td><%=productDto.getStockQuantity()%></td>
-					<td><a href="/JavawebTest/product/delete?productId=<%=productDto.getProductId()%>" class="button-error pure-button">刪除</td>
+					<td><a href="/JavawebTest/product/delete?productId=<%=productDto.getProductId()%>" class="button-error pure-button">刪除</a></td>
 						
 				</tr>
 				<%

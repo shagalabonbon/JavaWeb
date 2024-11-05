@@ -9,8 +9,6 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
-import javaweb.exception.PasswordInvalidException;
-import javaweb.exception.UserNotFoundException;
 import javaweb.model.dto.UserCert;
 import javaweb.model.dto.UserDto;
 import javaweb.service.UserService;

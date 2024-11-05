@@ -23,10 +23,15 @@
 				<legend>Order 新增</legend>
 				<table class="pure-table">
 					<thead>
-						<th>商品id</th><th>商品名稱</th><th>商品單價</th><th>商品庫存</th><th>下單數量</th>
+						<tr>
+							<th>商品id</th>
+							<th>商品名稱</th>
+							<th>商品單價</th>
+							<th>商品庫存</th>
+							<th>下單數量</th>
+						</tr>
 					</thead>
-					<tbody>
-					    
+					<tbody>    
 						<tr>
 							<td>
 							    1

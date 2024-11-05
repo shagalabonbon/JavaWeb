@@ -81,8 +81,8 @@
 						<!-- 結帳 / 取消 -->
 						<tr style="display: ${ fn:length(orderDtos)==0 ? 'none':'' }">   <!-- 使用函式庫功能：訂單無內容時不顯示按鈕 -->
 							<td colspan="7" align="right">結帳</td>
-							<td><a href="/JavawebTest/order/finish" class="button-success pure-button">結帳</td>
-							<td><a href="/JavawebTest/order/cancel" class="button-warning pure-button">取消</td>
+							<td><a href="/JavawebTest/order/finish" class="button-success pure-button">結帳</a></td>
+							<td><a href="/JavawebTest/order/cancel" class="button-warning pure-button">取消</a></td>
 						</tr>
 						
 					</tbody>
