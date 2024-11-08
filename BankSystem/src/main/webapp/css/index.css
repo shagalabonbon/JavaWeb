@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+header {
+  display: flex;             /* 使 header 成為 flex 容器 */
+  justify-content: center;   /* 水平居中 */
+  align-items: center;       /* 垂直居中 */
+}
+
+header img{
+	width:70px;
+}
